@@ -7,7 +7,7 @@ tags:
 
 comments: true
 title: Hadoop认识
-permalink: hadoopInfo
+permalink: hadoop-info
 date: 2016-07-25 17:03:15
 ---
 
