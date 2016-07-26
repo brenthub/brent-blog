@@ -71,5 +71,5 @@ HttpsURLConnection conn = (HttpsURLConnection)u.openConnection();
 ## 原理
 
 源码分析如下：
-[]
+![image](https://cloud.githubusercontent.com/assets/10822807/17124022/a44a5ee4-531a-11e6-904e-fcdb1da1b542.png)
 java.protocol.handler.pkgs 环境变量中，以|号分隔，靠前的位置优先查找，直到找到为止。
