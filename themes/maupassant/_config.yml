@@ -36,8 +36,8 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: Github
-    url: https://github.com/brenthub
+  - title: Super.Yu
+    url: http://ycyx28.com/
 
 
 timeline:
