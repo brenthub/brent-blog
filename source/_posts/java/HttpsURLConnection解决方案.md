@@ -12,8 +12,6 @@ permalink: httpsurlconnection-cast-error
 date: 2016-07-26 09:03:15
 ---
 
-## 问题
-
 在用httpClient过程中，发现抛出以下异常
 HttpsURLConnectionOldImpl cannot be cast to javax.net.ssl.HttpsURLConnection
 

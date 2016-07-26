@@ -11,6 +11,8 @@ permalink: hadoop-info
 date: 2016-07-25 17:03:15
 ---
 
+Hadoop是一个由Apache基金会所开发的分布式系统基础架构，在此先整体介绍一下它的三大组成部分。
+
 ## 概念
 
 ### HDFS
