@@ -44,6 +44,6 @@ public void print(byte[] bs){
 打印如下：
 ![image](https://cloud.githubusercontent.com/assets/10822807/17161061/b0f75756-53dc-11e6-8204-d2340018e89a.png)
 
-###结论
+### 结论
 
-就象测试类注释里写的GBK编码是偶数位编码，当byte数组为奇数时的UTF-8转成GBK时，最后一位标为不识别使用符号?代替对应ASCII代码就是63，再转回UTF-8时就会出现最后一位是乱码了。
+就像测试类注释里写的GBK编码是偶数位编码，当byte数组为奇数时的UTF-8转成GBK时，最后一位标为不识别使用符号?代替对应ASCII代码就是63，再转回UTF-8时就会出现最后一位是乱码了。
