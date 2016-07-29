@@ -5,5 +5,6 @@ tags:
 ---
 ### Read Think Verify Accept
 <div class="fa fa-user"></div>Name: [Brent](/)
+<div class="fa fa-weibo"></div>Weibo:[@沐沐村](http://weibo.com/brenthub)
 <div class="fa fa-github"></div>Github:[@brenthub](https://github.com/brenthub)
 <div class="fa fa-envelope"></div>Email:[brentbox@163.com](mailto:brentbox@163.com)
